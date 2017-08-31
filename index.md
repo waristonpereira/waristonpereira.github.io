@@ -3,6 +3,11 @@
 Cientista da Computação, entusiasta em Robótica e Internet das Coisas. Mestrando em Sistemas de Produção na Agropecuária com foco em soluções IoT para o campo. Especialista em negócios, projetos e processos. Palestrante da Campus Party e membro de grupos de pesquisa em programação competitiva, robótica e IoT.
 </p>
 
+## @github
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
+
 ## Contato
 
 Facebook: [https://www.facebook.com/waristonpereira](https://www.facebook.com/waristonpereira)
