@@ -6,5 +6,7 @@ Cientista da Computação, entusiasta em Robótica e Internet das Coisas. Mestra
 ## Contato
 
 Facebook: [https://www.facebook.com/waristonpereira](https://www.facebook.com/waristonpereira)
-Linkdin: [https://www.linkedin.com/in/waristonpereira/](https://www.linkedin.com/in/waristonpereira/)
-Currículo Lattes: [http://lattes.cnpq.br/8394520968289122](http://lattes.cnpq.br/8394520968289122)
+
+LinkedIn: [https://www.linkedin.com/in/waristonpereira/](https://www.linkedin.com/in/waristonpereira/)
+
+Lattes: [http://lattes.cnpq.br/8394520968289122](http://lattes.cnpq.br/8394520968289122)
